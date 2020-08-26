@@ -139,3 +139,12 @@ So if you are going to be looking for a job at the end of bootcamp, go ahead and
 ---
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+
+![Screenshot (63)](https://user-images.githubusercontent.com/62854999/91252611-dddbc900-e72b-11ea-93ab-a0f2da801538.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/62854999/91252600-dae0d880-e72b-11ea-83ae-44d1aed14120.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/62854999/91252583-d6b4bb00-e72b-11ea-9b6b-624c79303fa4.png)
+
+https://lisamcgautier.github.io/updatedPortfolio/
+https://github.com/LisaMcGautier/updatedPortfolio
